@@ -1,2 +1,3 @@
 # my-second-repo
-student-portal-demo
+student-portal-demo with a basic design and features. 
+
